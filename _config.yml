@@ -3,20 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Jiashu
+middle_name: 
+last_name: Han
+email: jh4392@columbia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: Jiashu Jiashu Han JiashuHan
+# jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hjiashu.github.io # 
 baseurl: # the subpath of your site, e.g. /blog/
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: hjiashu # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -104,8 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
+  you can reach me via jh4392@columbia.edu or jhan815@mit.edu
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -120,18 +119,18 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Jiashu Han # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+# pagination:
+#   enabled: true
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+# related_blog_posts:
+#   enabled: true
+#   max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
@@ -163,11 +162,11 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
+#   news:
+#     defaults:
+#       layout: post
+#     output: true
+#     permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -272,8 +271,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Han]
+  first_name: [Jiashu]
 
   style: apa
   locale: en
