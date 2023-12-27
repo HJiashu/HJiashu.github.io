@@ -32,3 +32,54 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Zhang":
+  - firstname: ["Zijian"]
+    url: https://zhangzij15.github.io
+
+"Dai":
+  - firstname: ["Linglong"]
+    url: http://oa.ee.tsinghua.edu.cn/dailinglong/
+
+"Xu":
+  - firstname: ["Shenheng"]
+    url: http://web.ee.tsinghua.edu.cn/xushenheng/en/index.htm
+
+"Yang":
+  - firstname: ["Fan"]
+    url: https://www.ee.tsinghua.edu.cn/en/info/1061/1263.htm
+
+"Hanzo":
+  - firstname: ["Lajos"]
+    url: https://www-mobile.ecs.soton.ac.uk/newcomms/?q=people/lh
+
+"You":
+  - firstname: ["Sixian"]
+    url: https://yougroup.mit.edu/
+
+"Ye":
+  - firstname: ["Cassandra Tong"]
+    url: https://cassandra-t-ye.github.io/
+
+"Monakhova":
+  - firstname: ["Kristina"]
+    url: https://kristinamonakhova.com/
+
+"Wang":
+  - firstname: ["Fan"]
+    url: https://www.wanglab-neuro.org/
+
+"Griffith":
+  - firstname: ["Linda"]
+    url: https://lgglab.mit.edu/
+
+"Angelopoulos":
+  - firstname: ["Anastasios"]
+    url: https://people.eecs.berkeley.edu/~angelopoulos/
+
+"Zhu":
+  - firstname: ["Ligeng"]
+    url: https://lzhu.me/
+"Han":
+  - firstname: ["Song"]
+    url: https://hanlab.mit.edu/songhan
